@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project3</string>
+    <string-array name="category_array">
+        <item>Makan</item>
+        <item>Transportasi</item>
+        <item>Hiburan</item>
+        <item>Belanja</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string name="etAmount">etAmount</string>
+    <string name="btnSaveTransaction">btnSaveTransaction</string>
+    <string name="spinnerCategory">spinnerCategory</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+</resources>
